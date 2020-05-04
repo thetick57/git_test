@@ -1,2 +1,2 @@
 # git_test
-first repo
+This is Tim Yong's first project!
